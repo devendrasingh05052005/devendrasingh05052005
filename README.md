@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Akshay! 👋</h1>
+<h1 align="center">Hi there, I'm Devendra ! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akshayrathore11/" target="_blank">
+  <a href="https://www.linkedin.com/in/devendrasingh05052005" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:akshayrathore1197@gmail.com">
