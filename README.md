@@ -13,16 +13,16 @@
   <a href="https://www.linkedin.com/in/devendrasingh05052005" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:akshayrathore1197@gmail.com">
+  <a href="mailto:banad8640@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://x.com/rathore_akshay_" target="_blank">
+  <a  target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://www.instagram.com/akshay_rathore__/" target="_blank">
+  <a href="https://www.instagram.com/deven_bana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://ak-personal-portfolio-cyan.vercel.app/" target="_blank">
+  <a target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
@@ -32,11 +32,11 @@
 ## 🚀 About Me
 
 ```javascript
-const akshay = {
+const devendra = {
     location: "Bhopal, India",
-    education: "Final Year Computer Science Student",
-    currentFocus: ["TypeScript", "Next.js", "Full-Stack Development"],
-    interests: ["Web Development", "Open Source", "Problem Solving"],
+    education: "Pre Final Year Computer Science Student",
+    currentFocus: ["Data Science", "Machine learning", "Full-Stack Development"],
+    interests: ["Web Development", "Machine learning", "Problem Solving"],
     lookingFor: "Full-Stack Developer Opportunities",
     funFact: "I transformed my portfolio from static HTML to dynamic React - and loved every debugging session!"
 };
@@ -44,11 +44,11 @@ const akshay = {
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 **Currently working on:** Mastering **TypeScript** and **Next.js**
+- 🔭 **Currently working on:** Mastering **Machine learning** and **Data Science**
 - 🌱 **Learning:** Advanced React patterns and backend optimization
 - 👯 **Looking to collaborate on:** Open source projects and innovative web applications
 - 💼 **Seeking:** Full-stack, front-end, or back-end development opportunities
-- 📫 **Reach me at:** akshayrathore1197@gmail.com
+- 📫 **Reach me at:** banad8640@gmail.com
 - ⚡ **Fun fact:** I successfully migrated my portfolio to React with zero downtime and learned why proper state management matters! 🐛➡️✨
 
 <br clear="right"/>
@@ -75,13 +75,13 @@ const akshay = {
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayrathore11&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayrathore11&theme=radical" width="80%" />
-</div>
+</div> -->
 
 ## 🏆 Featured Projects
 
